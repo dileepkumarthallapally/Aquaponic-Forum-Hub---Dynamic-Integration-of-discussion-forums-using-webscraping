@@ -1,0 +1,145 @@
+#header {
+    background-image:url("img/fish.jpg");
+    background-size: 2080px 250px;
+    background-repeat: no-repeat;
+    color:white;
+    text-align:center;
+    padding:40px;
+    height:auto;
+    font-size: 350%;
+}
+ /*-webkit-animation: mymove 5s infinite; 
+    animation: mymove 5s infinite;
+}
+
+
+@-webkit-keyframes mymove {
+    from {background-color: red;}
+    to {background-color: blue;}
+}
+
+@keyframes mymove {
+    from {background-color: red;}
+    to {background-color: blue;}
+}*/
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    width:400px;
+    float:left;
+    padding:10px;
+     height:auto;	 
+}
+
+.m
+{
+width: 560px;
+padding: 20px;
+height: auto;
+}
+ 
+/* Left DIV */
+.l
+{
+width: 140px;
+margin: 0px;
+padding: 0px; 
+float: left;
+text-align: right;
+height:auto;
+}
+ 
+/* Right DIV */
+.r
+{
+width:300px;
+margin: 0px;
+padding: 0px;
+float: right;
+font-size:20px;
+text-align: left;
+height:auto;
+}
+ 
+.a
+{
+clear: both;
+width: 470px;
+padding: 10px;
+font-size:20px;
+height:auto;
+}
+
+
+
+#fishtopics 
+{
+    margin-top:auto;
+    padding:10px;	
+    height:auto;
+    font-size:15px;
+width:auto;
+}
+
+#tr {
+font-size:15px;
+height:auto;
+  margin-top:auto;
+    padding:5px;
+}
+
+#td {
+font-size:15px;
+height:auto;
+  margin-top:auto;
+    padding:5px;
+}
+
+#post {
+font-size:15px;
+margin-top:auto;
+height:auto;
+}
+
+#discussions
+{
+    padding:5px;
+  font-size:15px;
+  margin-top:auto;
+text-align:center;
+  height:auto;
+  width:auto;
+}
+
+#postrep {
+font-size:15px;
+height:auto;
+margin-top:auto;
+padding:5px;
+}
+
+#detdesc
+{
+font-size:15px;
+height:auto;
+padding:5px;
+
+}
+
+#Replies
+{
+ 
+  margin-top:auto;
+height:auto;
+width:auto;
+padding:5px;
+}
+
+#rep
+{
+ padding:5px;	
+ height:auto;
+ margin-top:auto;
+}
+
+
